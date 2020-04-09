@@ -1,0 +1,14 @@
+#webgl{
+  width: 80%;
+  height: 80%;
+}
+#change{
+  width:50px;
+  height: 50px;
+  background: url("change.jpg") no-repeat;
+}
+#change1{
+  width:50px;
+  height: 50px;
+  background: url("change1.jpg") no-repeat;
+}
